@@ -12,6 +12,9 @@
   --Light-Grayish-Magenta: #f7f2f7;
   --White: #ffffff;
 }
+.empty {
+  display: none;
+}
 img {
   max-width: 100%;
 }
